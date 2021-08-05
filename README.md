@@ -6,3 +6,5 @@
 [Базовый HTML5 шаблон для любого проекта](https://webformyself.com/bazovyj-html5-shablon-dlya-lyubogo-proekta/)  
 [Пустой шаблон HTML5](https://moonback.ru/page/html5-blank-template)  
 [Glich hello webpage](https://glitch.com/edit/#!/hello-webpage)
+
+[Публикации - Профиль Mirantus - Хабр (Вёрстка Web-страниц, Joomla, WordPress)](https://habr.com/ru/users/mirantus/posts/)
